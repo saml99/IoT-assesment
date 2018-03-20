@@ -1,0 +1,12 @@
+/*
+filename: style.css
+author: Sam Lewis
+created: 13/03/2018
+last modified: 17/03/2018
+description: index.html, topic.html
+*/
+header img {
+  float: left;
+  width: 20%;
+  height: auto;
+}
