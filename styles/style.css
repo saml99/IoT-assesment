@@ -6,7 +6,9 @@ last modified: 17/03/2018
 description: index.html, topic.html
 */
 header {
-  background-color: black;
+  background-image: url(images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 2em;
 }
 
@@ -35,5 +37,13 @@ nav a:hover {
 }
 
 h1 {
+  font-size: 3em;
+  color: white;
+  font-family: sans-serif;
+  margin: 3.5em;
   text-align: center;
+}
+
+footer {
+  background-color: black;
 }
